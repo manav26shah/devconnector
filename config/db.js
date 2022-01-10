@@ -17,3 +17,5 @@ const connectDB = async () => {
 }
 
 module.exports = connectDB;
+
+//<script src="https://kit.fontawesome.com/f6bcb595ca.js" crossorigin="anonymous"></script>
